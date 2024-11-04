@@ -1,0 +1,23 @@
+# Model files
+moondream_latest_mtb/
+*.bin
+*.bin.gz
+*.tar
+*.onnx
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.venv
+venv/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+temp_*
+*.tmp
